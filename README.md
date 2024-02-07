@@ -17,4 +17,4 @@ In the past, I've worked as an intern at the University of Kentucky in a program
 
 I currently have a Sprinternship with the Breakthrough Technologies Program this summer of 2024.
 
-- contact me here: evy.su.mei@gmail.com | ejohn50@uic.edu
+- Contact me here 📫: evy.su.mei@gmail.com | ejohn50@uic.edu
