@@ -6,7 +6,7 @@
 
 In the past, I've worked as an intern at the University of Kentucky in a program called [EduceLab](https://educelab.engr.uky.edu), a unique ecosystem of non-destructive instrumentation capable of scanning in ancient scrolls and unraveling them digitally.
 
-📜 I studied under Stephen Parsons, learning how to navigate the software used to anaylize the fragile scrolls, collaborated with a team who worked to develop efficient methods for data extraction and interpretation, and later on also created posters based off models of the scrolls to promote the program and raise public awareness, for their events such as the Vesuvius Challenge - a competition created by Nat Friedman, Daniel Gross, and Dr. Brent Seales.
+I studied under Stephen Parsons, learning how to navigate the software used to anaylize the fragile scrolls, collaborated with a team who worked to develop efficient methods for data extraction and interpretation, and later on also created posters based off models of the scrolls to promote the program and raise public awareness, for their events such as the Vesuvius Challenge - a competition created by Nat Friedman, Daniel Gross, and Dr. Brent Seales.
 
 I am enthusiastic about learning. More specifically, with regards to Software Development, Machine Learning/AI, and Augmented Reality - mostly being able to make use of the skills I've aquired from being multidisciplinary.
 
