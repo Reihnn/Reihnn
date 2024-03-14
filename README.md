@@ -16,4 +16,4 @@ I wholeheartedly enjoy using my knowledge to not only create tools that will hel
 
 Experience with Autodesk Inventor (🦇 A batmobile was made in the process)
 
-I currently have a Sprinternship with the [Break Through Technologies](https://chicago.breakthroughtech.org) Program this summer of 2024.
+I currently have a Sprinternship with the [Break Through Technologies](https://chicago.breakthroughtech.org) Program with [Google](https://www.google.com) this summer of 2024.
