@@ -15,7 +15,6 @@ I studied under Stephen Parsons, learning how to navigate the software used to a
 ---
 
 ⚙️ Skills: C++, C, Java, JavaScript, Python, HTML, CSS.
-
 Experience with Autodesk Inventor (🦇 A batmobile was made in the process)
 
-I currently have a Sprinternship with the [Break Through Technologies](https://chicago.breakthroughtech.org) Program with [Google](https://www.google.com) this summer of 2024.
+I am currently seeking an internship for the summer of 2025.
