@@ -14,7 +14,6 @@ I wholeheartedly enjoy using my knowledge to not only create tools that will hel
 Experience with Autodesk Inventor (🦇 A batmobile was made in the process), Adobe products, Unity.
 
 I am currently seeking an internship for the summer of 2025.
-Check out my Resume [HERE](https://github.com/evelynsjohnson/evelynsjohnson/blob/f4c182b5a5926be025463a3d1577b8677437b7c6/Johnson_Evelyn_Resume_Fall2024_OnlineVs.pdf)!
 
 ---
 
